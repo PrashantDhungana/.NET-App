@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "yukti",
+    "RoleId": "1",
+    "Email": "yukti@gmail.com",
+    "Password": "yukti"
+  },
+  {
+    "Name": "sudeep",
+    "RoleId": "0",
+    "Email": "sudeep@gmail.com",
+    "Password": "sudeep"
+  },
+  {
+    "Name": "Anup",
+    "RoleId": "0",
+    "Email": "Anup@gmail.com",
+    "Password": "anup"
+  },
+  {
+    "Name": "Pratik",
+    "RoleId": "0",
+    "Email": "pratik@gmail.com",
+    "Password": "pratik"
+  }
+]
